@@ -1,4 +1,5 @@
-## 👋 Hello! I'm Dhananjay Pathak
+<strong>
+<h2>👋 Hello! I'm Dhananjay Pathak</h2>
 
 I'm a **19-year-old** cybersecurity enthusiast and first-year bachelor student, deeply interested in ethical hacking and vulnerability research. As I begin my journey in cybersecurity, I'm diving into bug bounties and exploring various types of web vulnerabilities. I enjoy challenging myself by finding and reporting security flaws to help make the digital world safer.
 
@@ -24,3 +25,4 @@ I'm a **19-year-old** cybersecurity enthusiast and first-year bachelor student, 
 [<img src='https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white' alt='twitter' height='30'>](https://x.com/dhananjay_00)
 [<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' alt='linkedin' height='30'>](https://www.linkedin.com/in/thedhananjaypathak/) 
 [<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white' alt='medium' height='30'>](https://medium.com/@dhananjay_00)
+</strong>
