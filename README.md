@@ -3,7 +3,8 @@
 
 I'm a **19-year-old** cybersecurity enthusiast and first-year bachelor student, deeply interested in ethical hacking and vulnerability research. As I begin my journey in cybersecurity, I'm diving into bug bounties and exploring various types of web vulnerabilities. I enjoy challenging myself by finding and reporting security flaws to help make the digital world safer.
 
-### 🤘 Companies that I've secured so far
+<h2>🤘 Companies that I've secured so far</h2>
+
 </br>
 
 | <img src="https://github.com/user-attachments/assets/c6b853d2-6235-406a-ab5e-1d998f18b089" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/4f0b715a-8a5a-4d49-9634-2a780a10af3d" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/84b0099b-a7c0-42c7-9cae-fba002ecbb8c" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/e3c17ab7-29e9-42a4-9768-1090adf72a3f" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/d77c88a8-4674-45d7-9577-4fbb512fca12" width="100" height="100"> | <img src="https://github.com/user-attachments/assets/69ebb813-e1ba-4f7b-a9c6-ff077db58c9d" width="100" height="100"> |
