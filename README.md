@@ -16,6 +16,7 @@ I'm a **19-year-old** cybersecurity enthusiast and first-year bachelor student, 
 
 1) [How I Discovered an Easy 2FA Vulnerability on Logitech](https://medium.com/@dhananjay_00/how-i-discovered-an-easy-2fa-vulnerability-on-logitech-ff0d07178b04)
 2) [How I Discovered Sensitive App_ID and App_Key Disclosure in a JavaScript File and Earned $150](https://medium.com/@dhananjay_00/how-i-discovered-sensitive-app-id-and-app-key-disclosure-in-a-javascript-file-and-earned-150-ad3fb7f942bc)
+3) [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover | p2](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef)
 
 ### 🗣️To Speak/Connect with me
 
