@@ -1,30 +1,233 @@
-<h1 align="center">Hi 👋, I'm Dhananjay Pathak</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<!--
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhananjay70&label=Profile%20views&color=0e75b6&style=flat" alt="dhananjay70" /> </p>
+Thank you if you like this profile README!
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dhananjay70" alt="dhananjay70" /></a> </p>
+BUT, please DO NOT copy this and create your profile based on it.
 
-<p align="left"> <a href="https://twitter.com/dhananjay_00" target="blank"><img src="https://img.shields.io/twitter/follow/dhananjay_00?logo=twitter&style=for-the-badge" alt="dhananjay_00" /></a> </p>
+You can use it as a reference, and copy a part of it, but DO NOT copy
+all of this and create your profile based on it.
 
-- Novus Aegis AI **Recon Pro**
+It is very common that you forget to change some information and leave
+mine in your profile. This has happened too many times.
 
-- 📫 How to reach me **thedhananjaypathak101@gmail.com**
+And, this profile README is auto-updated by GitHub Actions, you can read
+[the official documentation](https://docs.github.com/actions) to learn
+how to use it.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/dhananjay_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dhananjay_00" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/thedhananjaypathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="thedhananjaypathak" height="30" width="40" /></a>
-<a href="https://instagram.com/dhananjaypathak70" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="dhananjaypathak70" height="30" width="40" /></a>
-<a href="https://medium.com/dhananjay_00" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="dhananjay_00" height="30" width="40" /></a>
-<a href="https://discord.gg/965vYQ4s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="965vYQ4s" height="30" width="40" /></a>
-</p>
+Only when you know what you are copying should you paste it. So, again,
+please DO NOT copy this and create your profile based on it.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+What's more, you can find other awesome profile READMEs at
+https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
+could be a profile README that fits you better than this one.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhananjay70&show_icons=true&locale=en&layout=compact" alt="dhananjay70" /></p>
+Wish you a good-looking profile README!
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhananjay70&show_icons=true&locale=en" alt="dhananjay70" /></p>
+                                   —— ouuan (https://github.com/ouuan)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dhananjay70&" alt="dhananjay70" /></p>
+-->
+
+My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a first-year master's student at Tsinghua University in China.
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+</picture>
+
+-   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
+-   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
+-   :microscope: Cyber security research with @chenjj
+-   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
+-   :mag: [CVEs discovered by me](CVE.md)
+-   :star: [Projects starred by me](AWESOME-STARS.md)
+-   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+
+---
+
+### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
+
+<!--START_SECTION:blog-posts-->
+-   2025-10-26 [GeekGame 2025 出题人题解：统一身份认证、勒索病毒](https://ouuan.moe/post/2025/10/geekgame-2025-graphauth-ransomware?utm_source=GitHubProfile)
+-   2025-05-10 [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank?utm_source=GitHubProfile)
+-   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)
+-   2025-03-11 [TPCTF 2025 Official Write-Up (6 challenges)](https://ouuan.moe/post/2025/03/tpctf-2025?utm_source=GitHubProfile)
+-   2025-03-04 [SECCON CTF 13 Finals 游记](https://ouuan.moe/post/2025/02/seccon-13-finals?utm_source=GitHubProfile)
+<!--END_SECTION:blog-posts-->
+
+---
+
+### :sparkles: [My followers](src/getTopFollowers.py)
+
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/wizardforcel">
+        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+      </a>
+      <br />
+      <a href="https://github.com/wizardforcel">布客飞龙</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EndlessCheng">
+        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      </a>
+      <br />
+      <a href="https://github.com/EndlessCheng">灵茶山艾府 [0x3F]</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gaocegege">
+        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      </a>
+      <br />
+      <a href="https://github.com/gaocegege">Ce Gao</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/guofei9987">
+        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      </a>
+      <br />
+      <a href="https://github.com/guofei9987">郭飞</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zer0yu">
+        <img src="https://avatars2.githubusercontent.com/u/16551733" width="100px;" alt="zer0yu"/>
+      </a>
+      <br />
+      <a href="https://github.com/zer0yu">z3r0yu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lowlighter">
+        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      </a>
+      <br />
+      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/hua1995116">
+        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      </a>
+      <br />
+      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/losfair">
+        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
+      </a>
+      <br />
+      <a href="https://github.com/losfair">Heyang Zhou</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Harry-Chen">
+        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
+      </a>
+      <br />
+      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Konano">
+        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
+      </a>
+      <br />
+      <a href="https://github.com/Konano">Nano</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/SunsetMkt">
+        <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
+      </a>
+      <br />
+      <a href="https://github.com/SunsetMkt">Sunset Mikoto</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Ir1d">
+        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
+      </a>
+      <br />
+      <a href="https://github.com/Ir1d">Dejia Xu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/clansty">
+        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="clansty"/>
+      </a>
+      <br />
+      <a href="https://github.com/clansty">凌莞~(=^▽^=)</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/taoso">
+        <img src="https://avatars2.githubusercontent.com/u/2030591" width="100px;" alt="taoso"/>
+      </a>
+      <br />
+      <a href="https://github.com/taoso">taoso</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/lzwjava">
+        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
+      </a>
+      <br />
+      <a href="https://github.com/lzwjava">Zhiwei Li</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Trumeet">
+        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
+      </a>
+      <br />
+      <a href="https://github.com/Trumeet">Yuuta Liang</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Enter-tainer">
+        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      </a>
+      <br />
+      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/zTrix">
+        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
+      </a>
+      <br />
+      <a href="https://github.com/zTrix">Wenlei Zhu</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/WBGlIl">
+        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
+      </a>
+      <br />
+      <a href="https://github.com/WBGlIl">WBGlIl</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/gdut-yy">
+        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
+      </a>
+      <br />
+      <a href="https://github.com/gdut-yy">张逸扬</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/lz233">
+        <img src="https://avatars2.githubusercontent.com/u/32504382" width="100px;" alt="lz233"/>
+      </a>
+      <br />
+      <a href="https://github.com/lz233">lz差不多是条咸鱼了</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
+
+---
+
+### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
+
+<!--START_SECTION:waka-->
+
+```txt
+Python             14 hrs 57 mins  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.37 %
+Rust               11 hrs 46 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.04 %
+Markdown           6 hrs 58 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.50 %
+YAML               6 hrs 10 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.41 %
+Shell              5 hrs 20 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.26 %
+```
+
+<!--END_SECTION:waka-->
