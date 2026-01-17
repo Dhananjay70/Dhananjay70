@@ -37,7 +37,7 @@ My name is Dhananjay Pathak<!-- the bold part is the origin of my ID -->. I'm a 
 -   :pencil2: Python / C++ / TypeScript / Bash
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
 -   :microscope: Penetration Tester at Novus Aegis AI
--   :thought_balloon: Ask me anything at [Mail](thedhananjaypathak101@gmail.com)
+-   :thought_balloon: Ask me anything at [Mail](mailto:thedhananjaypathak101@gmail.com)
 
 ---
 
