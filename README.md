@@ -210,19 +210,3 @@ My name is Dhananjay Pathak<!-- the bold part is the origin of my ID -->. I'm a 
   </tr>
 </table>
 <!--END_SECTION:top-followers-->
-
----
-
-### :bar_chart: [Coding time in the last month](https://github.com/muety/wakapi)
-
-<!--START_SECTION:waka-->
-
-```txt
-Python             14 hrs 57 mins  🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   20.37 %
-Rust               11 hrs 46 mins  🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   16.04 %
-Markdown           6 hrs 58 mins   🟩🟩🟨⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   09.50 %
-YAML               6 hrs 10 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   08.41 %
-Shell              5 hrs 20 mins   🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜   07.26 %
-```
-
-<!--END_SECTION:waka-->
