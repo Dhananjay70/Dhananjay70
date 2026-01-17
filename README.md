@@ -27,36 +27,31 @@ Wish you a good-looking profile README!
 
 -->
 
-My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I'm a first-year master's student at Tsinghua University in China.
+My name is Dhananjay Pathak<!-- the bold part is the origin of my ID -->. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=ouuan&show_icons=true">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=dhananjay70&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=dhananjay70&show_icons=true">
 </picture>
 
--   :pencil2: Rust / C++ / TypeScript / Vue / Python / SystemVerilog
+-   :pencil2: Python / C++ / TypeScript / Bash
 -   :package: [Arch Linux](https://wiki.archlinux.org/title/Arch_Linux) / [i3wm](https://i3wm.org/) / [neovim](https://neovim.io/) / [nnn](https://github.com/jarun/nnn) / [mpv](https://mpv.io/) / [Firefox](https://www.mozilla.org/firefox/) / [yadm](https://github.com/TheLocehiliosan/yadm)
--   :microscope: Cyber security research with @chenjj
--   :thought_balloon: Ask me anything at [Discussions](https://github.com/ouuan/ouuan/discussions/new/choose)!
--   :mag: [CVEs discovered by me](CVE.md)
--   :star: [Projects starred by me](AWESOME-STARS.md)
--   :key: GPG key: [`863A0F9FA8127FA4`](https://github.com/ouuan.gpg)
+-   :microscope: Penetration Tester at Novus Aegis AI
+-   :thought_balloon: Ask me anything at [Discussions](https://medium.com/@dhananjay_00)!
 
 ---
 
 ### :pencil: [Latest blog posts](https://ouuan.moe?utm_source=GitHubProfile)
 
 <!--START_SECTION:blog-posts-->
--   2025-10-26 [GeekGame 2025 出题人题解：统一身份认证、勒索病毒](https://ouuan.moe/post/2025/10/geekgame-2025-graphauth-ransomware?utm_source=GitHubProfile)
--   2025-05-10 [DEF CON CTF Quals 2025 memorybank Write-Up: Investigating V8 Garbage Collector](https://ouuan.moe/post/2025/04/memorybank?utm_source=GitHubProfile)
--   2025-03-20 [修复 XeTeX 更新导致编译错误](https://ouuan.moe/post/2025/03/fix-xetex-update?utm_source=GitHubProfile)
--   2025-03-11 [TPCTF 2025 Official Write-Up (6 challenges)](https://ouuan.moe/post/2025/03/tpctf-2025?utm_source=GitHubProfile)
--   2025-03-04 [SECCON CTF 13 Finals 游记](https://ouuan.moe/post/2025/02/seccon-13-finals?utm_source=GitHubProfile)
+-   2025-11-23 [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover | p2](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef)
+-   2024-10-26 [How I Discovered an Easy 2FA Vulnerability on Logitech](https://medium.com/@dhananjay_00/how-i-discovered-an-easy-2fa-vulnerability-on-logitech-ff0d07178b04)
+-   2024-10-23 [How I Discovered Sensitive App_ID and App_Key Disclosure in a JavaScript File and Earned $150](https://medium.com/@dhananjay_00/how-i-discovered-sensitive-app-id-and-app-key-disclosure-in-a-javascript-file-and-earned-150-ad3fb7f942bc)
 <!--END_SECTION:blog-posts-->
 
 ---
 
-### :sparkles: [My followers](src/getTopFollowers.py)
+### :sparkles: [Hall of Fame](src/getTopFollowers.py)
 
 <!--START_SECTION:top-followers-->
 <table>
@@ -66,49 +61,49 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
         <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">布客飞龙</a>
+      <a href="https://github.com/wizardforcel">Allegion</a>
     </td>
     <td align="center">
       <a href="https://github.com/EndlessCheng">
         <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
       </a>
       <br />
-      <a href="https://github.com/EndlessCheng">灵茶山艾府 [0x3F]</a>
+      <a href="https://github.com/EndlessCheng">IKEA</a>
     </td>
     <td align="center">
       <a href="https://github.com/gaocegege">
         <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">Ce Gao</a>
+      <a href="https://github.com/gaocegege">INGKA</a>
     </td>
     <td align="center">
       <a href="https://github.com/guofei9987">
         <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
       </a>
       <br />
-      <a href="https://github.com/guofei9987">郭飞</a>
+      <a href="https://github.com/guofei9987">Uniti</a>
     </td>
     <td align="center">
       <a href="https://github.com/zer0yu">
         <img src="https://avatars2.githubusercontent.com/u/16551733" width="100px;" alt="zer0yu"/>
       </a>
       <br />
-      <a href="https://github.com/zer0yu">z3r0yu</a>
+      <a href="https://github.com/zer0yu">Logitech</a>
     </td>
     <td align="center">
       <a href="https://github.com/lowlighter">
         <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
       </a>
       <br />
-      <a href="https://github.com/lowlighter">Simon Lecoq</a>
+      <a href="https://github.com/lowlighter">Versa Networks</a>
     </td>
     <td align="center">
       <a href="https://github.com/hua1995116">
         <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
       </a>
       <br />
-      <a href="https://github.com/hua1995116">蓝色的秋风</a>
+      <a href="https://github.com/hua1995116">American Airlines</a>
     </td>
   </tr>
   <tr>
@@ -117,28 +112,28 @@ My name is Y**ou** Y**u**f**an**<!-- the bold part is the origin of my ID -->. I
         <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
       </a>
       <br />
-      <a href="https://github.com/losfair">Heyang Zhou</a>
+      <a href="https://github.com/losfair">Unibet</a>
     </td>
     <td align="center">
       <a href="https://github.com/Harry-Chen">
         <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
       </a>
       <br />
-      <a href="https://github.com/Harry-Chen">Shengqi Chen</a>
+      <a href="https://github.com/Harry-Chen">Kia</a>
     </td>
     <td align="center">
       <a href="https://github.com/Konano">
         <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
       </a>
       <br />
-      <a href="https://github.com/Konano">Nano</a>
+      <a href="https://github.com/Konano">Airship</a>
     </td>
     <td align="center">
       <a href="https://github.com/SunsetMkt">
         <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
       </a>
       <br />
-      <a href="https://github.com/SunsetMkt">Sunset Mikoto</a>
+      <a href="https://github.com/SunsetMkt">leadliaison</a>
     </td>
     <td align="center">
       <a href="https://github.com/Ir1d">
