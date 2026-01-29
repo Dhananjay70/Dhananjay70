@@ -140,21 +140,21 @@ My name is Dhananjay Pathak<!-- the bold part is the origin of my ID -->. I'm a 
         <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
       </a>
       <br />
-      <a href="https://github.com/Ir1d">Dejia Xu</a>
+      <a href="https://github.com/Ir1d">Private</a>
     </td>
     <td align="center">
       <a href="https://github.com/clansty">
         <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="clansty"/>
       </a>
       <br />
-      <a href="https://github.com/clansty">凌莞~(=^▽^=)</a>
+      <a href="https://github.com/clansty">Private</a>
     </td>
     <td align="center">
       <a href="https://github.com/taoso">
         <img src="https://avatars2.githubusercontent.com/u/2030591" width="100px;" alt="taoso"/>
       </a>
       <br />
-      <a href="https://github.com/taoso">taoso</a>
+      <a href="https://github.com/taoso">Private</a>
     </td>
   </tr>
   <tr>
@@ -163,49 +163,49 @@ My name is Dhananjay Pathak<!-- the bold part is the origin of my ID -->. I'm a 
         <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
       </a>
       <br />
-      <a href="https://github.com/lzwjava">Zhiwei Li</a>
+      <a href="https://github.com/lzwjava">Private</a>
     </td>
     <td align="center">
       <a href="https://github.com/Trumeet">
         <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
       </a>
       <br />
-      <a href="https://github.com/Trumeet">Yuuta Liang</a>
+      <a href="https://github.com/Trumeet">Private</a>
     </td>
     <td align="center">
       <a href="https://github.com/Enter-tainer">
         <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
       </a>
       <br />
-      <a href="https://github.com/Enter-tainer">Wenzhuo Liu</a>
+      <a href="https://github.com/Enter-tainer">Private</a>
     </td>
     <td align="center">
       <a href="https://github.com/zTrix">
         <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
       </a>
       <br />
-      <a href="https://github.com/zTrix">Wenlei Zhu</a>
+      <a href="https://github.com/zTrix">Private</a>
     </td>
     <td align="center">
       <a href="https://github.com/WBGlIl">
         <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
       </a>
       <br />
-      <a href="https://github.com/WBGlIl">WBGlIl</a>
+      <a href="https://github.com/WBGlIl">Private</a>
     </td>
     <td align="center">
       <a href="https://github.com/gdut-yy">
         <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
       </a>
       <br />
-      <a href="https://github.com/gdut-yy">张逸扬</a>
+      <a href="https://github.com/gdut-yy">Private</a>
     </td>
     <td align="center">
       <a href="https://github.com/lz233">
         <img src="https://avatars2.githubusercontent.com/u/32504382" width="100px;" alt="lz233"/>
       </a>
       <br />
-      <a href="https://github.com/lz233">lz差不多是条咸鱼了</a>
+      <a href="https://github.com/lz233">Private</a>
     </td>
   </tr>
 </table>
