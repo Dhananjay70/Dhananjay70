@@ -7,7 +7,7 @@ My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Chaudhary Ch
 
 -   :pencil2: Python / C++ / TypeScript / Bash
 -   :microscope: Penetration Tester at Novus Aegis AI
--   :thought_balloon: Ask me anything at [Mail](mailto:thedhananjaypathak101@gmail.com)
+-   :thought_balloon: Ask me anything at [thedhananjaypathak101@gmail.com](mailto:thedhananjaypathak101@gmail.com)
 
 ---
 
