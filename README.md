@@ -1,33 +1,4 @@
-<!--
-
-Thank you if you like this profile README!
-
-BUT, please DO NOT copy this and create your profile based on it.
-
-You can use it as a reference, and copy a part of it, but DO NOT copy
-all of this and create your profile based on it.
-
-It is very common that you forget to change some information and leave
-mine in your profile. This has happened too many times.
-
-And, this profile README is auto-updated by GitHub Actions, you can read
-[the official documentation](https://docs.github.com/actions) to learn
-how to use it.
-
-Only when you know what you are copying should you paste it. So, again,
-please DO NOT copy this and create your profile based on it.
-
-What's more, you can find other awesome profile READMEs at
-https://github.com/abhisheknaiidu/awesome-github-profile-readme. There
-could be a profile README that fits you better than this one.
-
-Wish you a good-looking profile README!
-
-                                   —— ouuan (https://github.com/ouuan)
-
--->
-
-My name is Dhananjay Pathak<!-- the bold part is the origin of my ID -->. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
+My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
 
 <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=dhananjay70&theme=dark&show_icons=true">
@@ -56,155 +27,155 @@ My name is Dhananjay Pathak<!-- the bold part is the origin of my ID -->. I'm a 
 <table>
   <tr>
     <td align="center">
-      <a href="https://github.com/wizardforcel">
-        <img src="https://avatars2.githubusercontent.com/u/5080126" width="100px;" alt="wizardforcel"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/64a0f2ff-6b24-4423-aa45-d7413b5ea8b9" width="100px;" alt="Allegion"/>
       </a>
       <br />
-      <a href="https://github.com/wizardforcel">Allegion</a>
+      <a href="https://www.allegion.com/corp/en/index.html">Allegion</a>
     </td>
     <td align="center">
-      <a href="https://github.com/EndlessCheng">
-        <img src="https://avatars2.githubusercontent.com/u/7086966" width="100px;" alt="EndlessCheng"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/3c9d5cef-84a2-4ed5-a57f-6bd79e540dcb" width="100px;" alt="IKEA"/>
       </a>
       <br />
-      <a href="https://github.com/EndlessCheng">IKEA</a>
+      <a href="https://www.ikea.com/in/en/">IKEA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gaocegege">
-        <img src="https://avatars2.githubusercontent.com/u/5100735" width="100px;" alt="gaocegege"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/3d032b51-b8de-47bb-a781-fb3b30a85f85" width="100px;" alt="INGKA"/>
       </a>
       <br />
-      <a href="https://github.com/gaocegege">INGKA</a>
+      <a href="https://www.ingka.com/">INGKA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/guofei9987">
-        <img src="https://avatars2.githubusercontent.com/u/19920283" width="100px;" alt="guofei9987"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/2b1c58de-d6d1-4f93-8b87-6ec18e0de4a6" width="100px;" alt="Uniti"/>
       </a>
       <br />
-      <a href="https://github.com/guofei9987">Uniti</a>
+      <a href="https://uniti.com/">Uniti</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zer0yu">
-        <img src="https://avatars2.githubusercontent.com/u/16551733" width="100px;" alt="zer0yu"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/3148e25f-25f8-4e33-a2ff-266672c67801" width="100px;" alt="Logitech"/>
       </a>
       <br />
-      <a href="https://github.com/zer0yu">Logitech</a>
+      <a href="https://www.logitech.com/en-in">Logitech</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lowlighter">
-        <img src="https://avatars2.githubusercontent.com/u/22963968" width="100px;" alt="lowlighter"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/d8c4a0a1-f77f-47e2-88b0-cd4222aca8e0" width="100px;" alt="Versa Networks"/>
       </a>
       <br />
-      <a href="https://github.com/lowlighter">Versa Networks</a>
+      <a href="https://versa-networks.com/">Versa Networks</a>
     </td>
     <td align="center">
-      <a href="https://github.com/hua1995116">
-        <img src="https://avatars2.githubusercontent.com/u/12070073" width="100px;" alt="hua1995116"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/ecb6ef14-0c1a-4740-a25b-066155da5987" width="100px;" alt="American Airlines"/>
       </a>
       <br />
-      <a href="https://github.com/hua1995116">American Airlines</a>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://github.com/losfair">
-        <img src="https://avatars2.githubusercontent.com/u/6104981" width="100px;" alt="losfair"/>
-      </a>
-      <br />
-      <a href="https://github.com/losfair">Unibet</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Harry-Chen">
-        <img src="https://avatars2.githubusercontent.com/u/2819727" width="100px;" alt="Harry-Chen"/>
-      </a>
-      <br />
-      <a href="https://github.com/Harry-Chen">Kia</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Konano">
-        <img src="https://avatars2.githubusercontent.com/u/22500116" width="100px;" alt="Konano"/>
-      </a>
-      <br />
-      <a href="https://github.com/Konano">Airship</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SunsetMkt">
-        <img src="https://avatars2.githubusercontent.com/u/26019675" width="100px;" alt="SunsetMkt"/>
-      </a>
-      <br />
-      <a href="https://github.com/SunsetMkt">leadliaison</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/Ir1d">
-        <img src="https://avatars2.githubusercontent.com/u/10709657" width="100px;" alt="Ir1d"/>
-      </a>
-      <br />
-      <a href="https://github.com/Ir1d">Private</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/clansty">
-        <img src="https://avatars2.githubusercontent.com/u/18461360" width="100px;" alt="clansty"/>
-      </a>
-      <br />
-      <a href="https://github.com/clansty">Private</a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/taoso">
-        <img src="https://avatars2.githubusercontent.com/u/2030591" width="100px;" alt="taoso"/>
-      </a>
-      <br />
-      <a href="https://github.com/taoso">Private</a>
+      <a href="https://www.aa.com/homePage.do?locale=en_US">American Airlines</a>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <a href="https://github.com/lzwjava">
-        <img src="https://avatars2.githubusercontent.com/u/5022872" width="100px;" alt="lzwjava"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/9ddf8aa6-71c4-4388-bd05-49d90049ff76" width="100px;" alt="Unibet"/>
       </a>
       <br />
-      <a href="https://github.com/lzwjava">Private</a>
+      <a href="https://www.unibet.com/">Unibet</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Trumeet">
-        <img src="https://avatars2.githubusercontent.com/u/17158086" width="100px;" alt="Trumeet"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/a7c74f3d-bc61-4469-b62c-af11a3eb2732" width="100px;" alt="KIA"/>
       </a>
       <br />
-      <a href="https://github.com/Trumeet">Private</a>
+      <a href="https://www.kia.com/in/home.html">KIA</a>
     </td>
     <td align="center">
-      <a href="https://github.com/Enter-tainer">
-        <img src="https://avatars2.githubusercontent.com/u/25521218" width="100px;" alt="Enter-tainer"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/ddd55cad-9e93-4fff-b79e-4a522cc517d5" width="100px;" alt="Airship"/>
       </a>
       <br />
-      <a href="https://github.com/Enter-tainer">Private</a>
+      <a href="https://www.airship.com/">Airship</a>
     </td>
     <td align="center">
-      <a href="https://github.com/zTrix">
-        <img src="https://avatars2.githubusercontent.com/u/471934" width="100px;" alt="zTrix"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/e0ed965e-1ed5-446e-8911-bb423a64a71c" width="100px;" alt="Leadliaison"/>
       </a>
       <br />
-      <a href="https://github.com/zTrix">Private</a>
+      <a href="https://www.leadliaison.com/">Leadliaison</a>
     </td>
     <td align="center">
-      <a href="https://github.com/WBGlIl">
-        <img src="https://avatars2.githubusercontent.com/u/29301859" width="100px;" alt="WBGlIl"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
       </a>
       <br />
-      <a href="https://github.com/WBGlIl">Private</a>
+      <a href="#">Private</a>
     </td>
     <td align="center">
-      <a href="https://github.com/gdut-yy">
-        <img src="https://www.shutterstock.com/search/anonymous-user" width="100px;" alt="gdut-yy"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
       </a>
       <br />
-      <a href="https://github.com/gdut-yy">Private</a>
+      <a href="#">Private</a>
     </td>
     <td align="center">
-      <a href="https://github.com/lz233">
-        <img src="https://avatars2.githubusercontent.com/u/32504382" width="100px;" alt="lz233"/>
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
       </a>
       <br />
-      <a href="https://github.com/lz233">Private</a>
+      <a href="#">Private</a>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
+      </a>
+      <br />
+      <a href="#">Private</a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
+      </a>
+      <br />
+      <a href="#">Private</a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
+      </a>
+      <br />
+      <a href="#">Private</a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
+      </a>
+      <br />
+      <a href="#">Private</a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
+      </a>
+      <br />
+      <a href="#">Private</a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
+      </a>
+      <br />
+      <a href="#">Private</a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="https://github.com/user-attachments/assets/abd7e144-6a83-436a-b7c7-d744723d2a0b" width="100px;" alt="Private"/>
+      </a>
+      <br />
+      <a href="#">Private</a>
     </td>
   </tr>
 </table>
