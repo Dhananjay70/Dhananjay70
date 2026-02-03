@@ -1,4 +1,4 @@
-My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
+Hi 👋, My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
 
 -   :pencil2: Python / C++ / TypeScript / Bash
 -   :microscope: Penetration Tester at Novus Aegis AI
@@ -9,9 +9,9 @@ My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Chaudhary Ch
 ### :pencil: [Latest Blog Posts]()
 
 <!--START_SECTION:blog-posts-->
--   2025-11-23 [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef)
--   2024-10-26 [How I Discovered an Easy 2FA Vulnerability on Logitech](https://medium.com/@dhananjay_00/how-i-discovered-an-easy-2fa-vulnerability-on-logitech-ff0d07178b04)
--   2024-10-23 [How I Discovered Sensitive App_ID and App_Key Disclosure in a JavaScript File and Earned $150](https://medium.com/@dhananjay_00/how-i-discovered-sensitive-app-id-and-app-key-disclosure-in-a-javascript-file-and-earned-150-ad3fb7f942bc)
+-   2025-11-23 : [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef)
+-   2024-10-26 : [How I Discovered an Easy 2FA Vulnerability on Logitech](https://medium.com/@dhananjay_00/how-i-discovered-an-easy-2fa-vulnerability-on-logitech-ff0d07178b04)
+-   2024-10-23 : [How I Discovered Sensitive App_ID and App_Key Disclosure in a JavaScript File and Earned $150](https://medium.com/@dhananjay_00/how-i-discovered-sensitive-app-id-and-app-key-disclosure-in-a-javascript-file-and-earned-150-ad3fb7f942bc)
 <!--END_SECTION:blog-posts-->
 
 ---
