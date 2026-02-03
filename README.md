@@ -194,7 +194,7 @@ My name is Dhananjay Pathak<!-- the bold part is the origin of my ID -->. I'm a 
     </td>
     <td align="center">
       <a href="https://github.com/gdut-yy">
-        <img src="https://avatars2.githubusercontent.com/u/33390928" width="100px;" alt="gdut-yy"/>
+        <img src="https://www.shutterstock.com/search/anonymous-user" width="100px;" alt="gdut-yy"/>
       </a>
       <br />
       <a href="https://github.com/gdut-yy">Private</a>
