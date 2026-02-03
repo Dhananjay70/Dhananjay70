@@ -1,10 +1,5 @@
 My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
 
-<picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=dhananjay70&theme=dark&show_icons=true">
-    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=dhananjay70&show_icons=true">
-</picture>
-
 -   :pencil2: Python / C++ / TypeScript / Bash
 -   :microscope: Penetration Tester at Novus Aegis AI
 -   :thought_balloon: Ask me anything at [thedhananjaypathak101@gmail.com](mailto:thedhananjaypathak101@gmail.com)
