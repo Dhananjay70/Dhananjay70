@@ -7,7 +7,7 @@ Hi 👋, My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Cha
 
 ---
 
-### :pencil: [Latest Blog Posts]()
+### :pencil: [Latest Blog Poss]()
 
 <!--START_SECTION:blog-posts-->
 -   2025-11-23 : [How I Discovered an Email Change Vulnerability Leading to Pre-Account Takeover](https://medium.com/@dhananjay_00/how-i-discovered-an-email-change-vulnerability-leading-to-pre-account-takeover-p2-7e76e0002eef)
