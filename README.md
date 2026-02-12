@@ -17,7 +17,7 @@ Hi 👋, My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Cha
 
 ---
 
-### :sparkles: [Hall of Fame]()
+### :sparkles: [Hall of Fae]()
 
 <!--START_SECTION:top-followers-->
 <table>
