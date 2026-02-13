@@ -1,4 +1,4 @@
-Hi 👋, My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
+Hi 👋, My name is Dhananjay athak. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
 
 -   :pencil2: Python / Bash / Javascript
 -   :computer: Web Application Security / Network Security / API Security / Cloud Security
