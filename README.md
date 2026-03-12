@@ -2,7 +2,7 @@ Hi 👋, My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Cha
 
 -   :pencil2: Python / Bash / Javascript
 -   :computer: Web Application Security / Network Security / API Security / Cloud Security
--   :microscope: Penetration Tester at Novus Aegis AI
+-   :microscope: Jr. Penetration Tester at Novus Aegis AI
 -   :thought_balloon: Ask me anything at [thedhananjaypathak101@gmail.com](mailto:thedhananjaypathak101@gmail.com)
 
 ---
