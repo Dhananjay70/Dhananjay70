@@ -6,7 +6,6 @@ Hi 👋, My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Cha
 -   :thought_balloon: Ask me anything at [thedhananjaypathak101@gmail.com](mailto:thedhananjaypathak101@gmail.com)
 
 ---
-[![TryHackMe Badge](https://tryhackme.com/api/v2/badges/public-profile?userPublicId=7114355)](https://tryhackme.com/p/thedhananjaypathak101)
 
 ### :pencil: [Latest Blog Posts]()
 
