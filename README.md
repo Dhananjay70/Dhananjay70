@@ -1,7 +1,7 @@
 Hi 👋, My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Chaudhary Charan Singh University in Greater Noida.
 
 -   :pencil2: Python / Bash / Javascript
--   :computer: Web Application Security / Network Security / API Security / Cloud Security
+-   :computer: Web Application Security / Network Security / API Security
 -   :microscope: Application security Engineer at Novus Aegis AI
 -   :thought_balloon: Ask me anything at [thedhananjaypathak101@gmail.com](mailto:thedhananjaypathak101@gmail.com)
 
