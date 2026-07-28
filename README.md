@@ -14,6 +14,7 @@ Hi 👋, My name is Dhananjay Pathak. I'm a third-year Bachelor's student at Cha
 -   2024-10-26 : [How I Discovered an Easy 2FA Vulnerability on Logitech](https://medium.com/@dhananjay_00/how-i-discovered-an-easy-2fa-vulnerability-on-logitech-ff0d07178b04)
 -   2024-10-23 : [How I Discovered Sensitive App_ID and App_Key Disclosure in a JavaScript File and Earned $150](https://medium.com/@dhananjay_00/how-i-discovered-sensitive-app-id-and-app-key-disclosure-in-a-javascript-file-and-earned-150-ad3fb7f942bc)
 -   2026-02-26 : [Gods Eye: The Reconnaissance Tool I Wish I Had 5 Years Ago](https://medium.com/@dhananjay_00/gods-eye-the-reconnaissance-tool-i-wish-i-had-5-years-ago-e7b2a7fdb211)
+-   2026-07-29 : [Verified or It Doesn’t Count](https://medium.com/@dhananjay_00/verified-or-it-doesnt-count-3d7321c389eb?sharedUserId=dhananjay_00)
 <!--END_SECTION:blog-posts-->
 
 ---
